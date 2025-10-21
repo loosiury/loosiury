@@ -8,8 +8,6 @@
 
 Sou um entusiasta da tecnologia e estudante de **Matemática Computacional**, com uma paixão especial por desenvolvimento Front-End com **React**. Minha jornada na programação é movida pela curiosidade e pelo desejo constante de aprender e evoluir.
 
-Atualmente, estou aprofundando meus conhecimentos em **TypeScript** para construir aplicações mais robustas e escaláveis. Embora meu foco principal seja o Front-End, também possuo experiência com **Python** para o Back-End e uma base sólida em **SQL** para gerenciamento de bancos de dados.
-
 - 👨‍🎓 Graduando em **Matemática Computacional**.
 - ⚛️ Focado em **Desenvolvimento Front-End** com **React** e **TypeScript**.
 - 🐍 Experiência em **Back-End** com **Python**.
@@ -18,7 +16,21 @@ Atualmente, estou aprofundando meus conhecimentos em **TypeScript** para constru
 
 ---
 
-## 🌱 Meus Projetos em Destaque
+## 💼 Experiência & Contribuições Atuais
+
+Atualmente, sou um dos desenvolvedores do sistema de gerenciamento corporativo da **CAMEL Empreendimentos e Construtora Civil**. Atuo de forma ampla no projeto, contribuindo em diversas frentes para a evolução da plataforma.
+
+O sistema é uma ferramenta robusta de controladoria, desenhada para gerenciar aportes de obras, fluxo financeiro, empréstimos, recebimentos e muito mais.
+
+* **Minha Atuação:**
+    * Desenvolvimento **Back-End** com Python, criando e mantendo as lógicas de negócio.
+    * Manutenção e otimização do **Banco de Dados (SQL)**.
+    * Implementação de novas funcionalidades e interfaces no **Front-End**.
+* **Link de Acesso:** **[Sistema de Controladoria CAMEL](http://controladoriacamel.com.br:8080/login)**
+
+---
+
+## 🌱 Meus Projetos de Estudo
 
 Aqui estão alguns projetos que desenvolvi e que refletem minhas áreas de estudo e interesse:
 
