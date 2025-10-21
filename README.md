@@ -6,7 +6,7 @@
   <a href="mailto:iury.figueiredo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-Sou um **Desenvolvedor Full-Stack** graduando em **Matemática Computacional** pela **Universidade Federal de Sergipe (UFS)**. Essa formação me proporciona uma base sólida em lógica, algoritmos e raciocínio analítico — habilidades que aplico diariamente no desenvolvimento de sistemas eficientes e escaláveis.
+Sou um **Desenvolvedor Full-Stack** graduando em **Matemática Computacional** pela **Universidade Federal de Sergipe (UFS)**. Essa formação me proporciona uma base sólida em lógica, criação de IAs, Computação Gráfica, algoritmos e raciocínio analítico — habilidades que aplico diariamente no desenvolvimento de sistemas eficientes e escaláveis.
 
 Minha paixão é transformar problemas complexos em soluções tecnológicas robustas, com foco especial em **Front-End com React e TypeScript**.
 
