@@ -18,14 +18,15 @@ Sou um entusiasta da tecnologia e estudante de **Matemática Computacional**, co
 
 ## 💼 Experiência & Contribuições Atuais
 
-Atualmente, sou um dos desenvolvedores do sistema de gerenciamento corporativo da **CAMEL Empreendimentos e Construtora Civil**. Atuo de forma ampla no projeto, contribuindo em diversas frentes para a evolução da plataforma.
+Atuo como Desenvolvedor Full-Stack no sistema de gerenciamento corporativo da **CAMEL Empreendimentos e Construtora Civil**, participando ativamente do planejamento e execução do projeto.
 
 O sistema é uma ferramenta robusta de controladoria, desenhada para gerenciar aportes de obras, fluxo financeiro, empréstimos, recebimentos e muito mais.
 
-* **Minha Atuação:**
-    * Desenvolvimento **Back-End** com Python, criando e mantendo as lógicas de negócio.
+* **Minhas Atribuições:**
+    * Desenvolvimento **Back-End** com **Python**, criando e mantendo as lógicas de negócio e APIs.
+    * Desenvolvimento **Front-End** com **React**, criando interfaces dinâmicas e realizando a integração eficiente com as APIs do sistema.
     * Manutenção e otimização do **Banco de Dados (SQL)**.
-    * Implementação de novas funcionalidades e interfaces no **Front-End**.
+    * Colaboração na visão de **Gerenciamento de Projeto**, auxiliando na definição de escopo e na priorização de *features*.
 * **Link de Acesso:** **[Sistema de Controladoria CAMEL](http://controladoriacamel.com.br:8080/login)**
 
 ---
